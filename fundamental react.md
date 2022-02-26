@@ -238,7 +238,7 @@ render() {
 ```
 # Component lifecycle 
 Mỗi component có nhiều "lifecycle method" có thể override để chạy code tại một thời điểm nào đó.
-![component lifecycle](./component-lifecycle.PNG)
+![component lifecycle](./images/component-lifecycle.PNG)
 
 ## Mounting
 Các phương thức trong mounting được gọi theo thứ tự khi một thực thể của component được tạo và chèn vào DOM:
